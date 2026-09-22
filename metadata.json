@@ -1,0 +1,6 @@
+{
+  "name": "Kaltseis",
+  "description": "Local automotive garage located at Sagi 2, 3324 Hindelbank, Switzerland. Professional vehicle maintenance, repairs, and diagnostics. Call 034 411 17 16.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
